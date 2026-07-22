@@ -24,8 +24,8 @@ Based on the scenario, the agent will:
 See:
 
 - Build-Agent.md
-- Sample-Scenarios.md
-- Prompt.md
+- SampleScenarios.md
+- Instructions.md
 
 ## Example
 
