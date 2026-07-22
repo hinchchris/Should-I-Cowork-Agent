@@ -10,9 +10,13 @@
 1. Open Microsoft 365 Copilot
 2. Select Create Agent
 3. Name the agent "Should I Cowork?"
-4. Copy the contents of Instructions.md
-5. Paste into Instructions
-6. Save the agent
+4. Copy the contents of Description.md
+5. Paste into Description
+6. Copy the contents of Instructions.md
+7. Paste into Instructions
+8. Copy the prompts from SuggestedPrompts.md
+9. Paste into the Suggested Prompts section 
+10. Save the agent
 
 ## Test the Agent
 
